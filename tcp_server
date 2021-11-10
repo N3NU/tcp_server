@@ -1,4 +1,4 @@
-import socket       "still testing"
+import socket       "not done"
 import threading
 
 IP = '0.0.0.0'
